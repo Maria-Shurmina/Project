@@ -1,0 +1,13 @@
+Данные взяты с сайта: https://www.kaggle.com/datasets/fahmidachowdhury/bookstore-inventory-best-sellers-and-new-releases
+
+Book Title: Название книги.
+Author: Автор(ы) книги.
+Category: Категория или жанр книги.
+Price (TK): Цена книги в TK (местная валюта).
+Stock Status: Статус доступности книги (В наличии/Нет в наличии).
+Copies Left: Количество доступных в данный момент экземпляров.
+Book Length (Pages): Количество страниц в книге.
+Edition: Подробности издания книги.
+Publication: Подробности издательства или публикации.
+Wished Users: Количество пользователей, которые добавили эту книгу в свой список желаний.
+Discount Offer: Любая доступная скидка или рекламное предложение на книгу.
